@@ -1,0 +1,13 @@
+{
+  "name": "갓톡",
+  "short_name": "갓톡",
+  "description": "뻥카 없이 진짜만. 검증된 채팅",
+  "display": "standalone",
+  "start_url": "/",
+  "background_color": "#fafbfc",
+  "theme_color": "#fafbfc",
+  "icons": [
+    { "src": "/icons/icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
